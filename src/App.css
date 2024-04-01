@@ -1,0 +1,23 @@
+* {
+  font-family: "Space Mono", monospace;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background: #cecece;
+}
+
+.bg-body {
+  background: #cecece;
+}
+
+.text-bl {
+  color: #202020;
+}
+
+.bg-bl {
+  background: #202020;
+}
